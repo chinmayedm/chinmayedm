@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm software student
-
+Graduating Software Engineer eager to learn and grow with hands-on experience in Python, Golang, Linux, and Cloud technologies. Passionate about building reliable and scalable systems, I enjoy solving real-world problems and exploring new tools that make an impact.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinmaye-d-m-50467a343/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmayegowdaa11@gmail.com) 
